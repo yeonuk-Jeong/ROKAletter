@@ -9,17 +9,6 @@ from webob.compat import urlparse
 import schedule
 import time
 import math
-# --Class PageFeed : Get facebook page/group's writing--
-'''
-Usage
-fbc = FacebookCrawler()
-fbc.set_user("username")
-
-fbc.addPagetoList or GroupList
-fbc.auto~~.
-or
-fbc.pageFeed(...)
-'''
 
 
 #Letter Sending Class
